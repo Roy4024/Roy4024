@@ -17,12 +17,6 @@ Hi ,I'm [Roye'S](https://www.linkedin.com/in/Roye'S/)
  <img align="right" alt="GIF" src="https://i.ibb.co/Mg680x6/1-IRGHmi-Gsa16sted-Qv-Ia-Zfw.gif" width="400" height="300" />
 
 **Talking about Personal Stuffs:**
-- 🔭 I’m currently working on HTML5,CSS,Ethereum,Truffle;
-- 🌱 I’m currently learning Blockchain,HyperLedger,Cosmos;
-- 👯 I’m looking to collaborate on doing an Decentralized application;
-- 🤔 I’m looking for help with Metaverse,Defi 😭;  
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@Roye'S](https://www.linkedin.com/in/Roye'S-a/);
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
